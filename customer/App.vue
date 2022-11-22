@@ -15,6 +15,7 @@
 
 <style lang="scss">
 	@import "uview-ui/index.scss";
+	@import "static/css/common.css";
 	/*每个页面公共css */
 	@import "static/iconfont/iconfont.css";
 </style>
